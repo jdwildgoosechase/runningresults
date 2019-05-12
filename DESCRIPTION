@@ -1,0 +1,12 @@
+Package: runningresults
+Type: Package
+Title: Tracks training results
+Version: 0.1.0
+Author: Jon De Guisti
+Maintainer: Jon De Guisti <jon.deguisti@gmail.com>
+Description: Stores data relating to training resutls
+Depends:
+    R (>= 3.6)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
